@@ -1,0 +1,20 @@
+{
+  "name": "countly-my-metric",
+  "title": "Metric plugin for code assignment",
+  "version": "1.0.0",
+  "author": "berkansivri",
+  "homepage": "https://count.ly/",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Countly/countly-server.git"
+  },
+  "bugs": {
+    "url": "http://github.com/Countly/countly-server/issues"
+  },
+  "keywords": [
+    "countly",
+    "analytics"
+  ],
+  "dependencies": {},
+  "private": true
+}
